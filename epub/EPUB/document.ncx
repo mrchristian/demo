@@ -14,8 +14,16 @@
       <content src="titlepage.xhtml#title" />
     </navPoint>
     <navPoint id="t_1_0-1">
-      <navLabel><text>On the economy of machinery and manufactures</text></navLabel>
+      <navLabel><text>Section 1</text></navLabel>
       <content src="document-1.xhtml#_1_0" />
+    </navPoint>
+    <navPoint id="t_2_0-2">
+      <navLabel><text>Section 2</text></navLabel>
+      <content src="document-2.xhtml#_2_0" />
+    </navPoint>
+    <navPoint id="t_3_0-3">
+      <navLabel><text>Section 3</text></navLabel>
+      <content src="document-3.xhtml#_3_0" />
     </navPoint>
     <navPoint id="t2">
       <navLabel><text>Copyright</text></navLabel>
